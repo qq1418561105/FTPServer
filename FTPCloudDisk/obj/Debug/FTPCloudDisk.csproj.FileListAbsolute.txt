@@ -1,0 +1,10 @@
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\bin\Debug\FTPCloudDisk.exe.config
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\bin\Debug\FTPCloudDisk.exe
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\bin\Debug\FTPCloudDisk.pdb
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.csprojResolveAssemblyReference.cache
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.Properties.Resources.resources
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.csproj.GenerateResource.Cache
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.exe
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.pdb
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.Login.resources
+G:\程序\调试\FTPCloudDisk\FTPCloudDisk\obj\Debug\FTPCloudDisk.Register.resources
